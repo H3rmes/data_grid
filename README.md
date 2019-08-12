@@ -1,2 +1,3 @@
 # data_grid
-Data visualization library
+This a repo for Data visualization library written in GoLang
+
